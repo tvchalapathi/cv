@@ -157,7 +157,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
     
     @media all and (min-width: 602px) and (max-width: 800px) {
         #headshot {
-            display: none;
+            /* display: none; */
         }
         
         .keySkills {
